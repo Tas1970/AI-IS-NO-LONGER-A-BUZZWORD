@@ -1,6 +1,4 @@
-
-![My Image]([images/example-image.png](https://github.com/Tas1970/AI-IS-NO-LONGER-A-BUZZWORD/blob/main/unlocking.png
-))
+![My Image]([images/example-image.png](https://github.com/Tas1970/AI-IS-NO-LONGER-A-BUZZWORD/blob/main/unlocking.png))
 
 
 [AI IS NO LONGER A BUZZWORD ABOUT THE FUTURE: A CONVERSATION ABOUT REAL BENEFITS FOR TALENT ACQUISITION PARTNERS](https://www.linkedin.com/pulse/ai-longer-buzzword-future-conversation-real-benefits-hassan-tas--qvm9e/?trackingId=mU%2Bhs6EVZsAZ6gw1uh9HwQ%3D%3D)
